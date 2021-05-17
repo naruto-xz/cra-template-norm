@@ -1,0 +1,22 @@
+{
+  "name": "cra-template-norm",
+  "version": "1.0.0",
+  "description": "The norm TypeScript template for Create React App.",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:naruto-xz/cra-template-norm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/naruto-xz/cra-template-norm/issues"
+  },
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript"
+  ],
+  "author": "xiaozhi",
+  "devDependencies": {},
+  "dependencies": {},
+  "license": "MIT"
+}
