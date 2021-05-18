@@ -1,6 +1,6 @@
 {
   "name": "cra-template-norm",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "The norm TypeScript template for Create React App.",
   "repository": {
     "type": "git",
