@@ -7,6 +7,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1sejftjENAF63MqNWSwlOhuVcnB" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -15,11 +22,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/template" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/template" />
+      <recent name="$PROJECT_DIR$/template/src" />
+      <recent name="$PROJECT_DIR$/template/public" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -31,11 +43,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1621240056369</updated>
-      <workItem from="1621240057613" duration="49000" />
+      <workItem from="1621240057613" duration="5709000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2090" y="511" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1621247434008">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2090" y="511" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.830/1440.23.1920.1057@1440.23.1920.1057" timestamp="1621247434008" />
   </component>
 </project>

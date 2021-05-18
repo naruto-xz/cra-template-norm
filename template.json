@@ -1,0 +1,8 @@
+{
+  "package": {
+    "dependencies": {
+      "lodash-es": "^4.17.15",
+      "@types/lodash-es": "^4.17.3"
+    }
+  }
+}
